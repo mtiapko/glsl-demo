@@ -2,7 +2,7 @@
 //
 //  Made by FiTH
 //
-//  https://github.com/FiTH-is-my-name
+//  https://github.com/mtiapko/
 
 #ifdef GL_ES
 precision mediump float;
